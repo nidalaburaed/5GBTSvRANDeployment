@@ -1,0 +1,19 @@
+<CommissioningData>
+  <BaseStation>
+    <Name>gNB-Testline1</Name>
+    <Location>Oulu</Location>
+    <PLMN>
+      <MCC>55</MCC>
+      <MNC>11</MNC>
+    </PLMN>
+    <Cells>
+      <Cell>
+        <CellID>01</CellID>
+        <Band>n78</Band>
+        <Bandwidth>150</Bandwidth>
+        <TAC>101</TAC>
+        <PCI>250</PCI>
+      </Cell>
+    </Cells>
+  </BaseStation>
+</CommissioningData>
