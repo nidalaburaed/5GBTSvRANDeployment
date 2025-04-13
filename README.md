@@ -22,4 +22,4 @@ Run the script by using the following command:
 
 ## Inquiries
 
-In case of inquiries, feel free to send message via email to nidalaburaed94@gmail.com
+In case of inquiries, feel free to send a message via email to nidalaburaed94@gmail.com
