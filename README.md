@@ -19,3 +19,7 @@ Run the script by using the following command:
 ```bash
 ./5GBTSvRANDeployment
 ```
+
+## Inquiries
+
+In case of inquiries, feel free to send message via email to nidalaburaed94@gmail.com
